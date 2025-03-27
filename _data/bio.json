@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ramesh Shah",
-    "label": "Student",
+    "label": "SENIOR SOFTWARE ENGINEER",
     "picture": "https://github.com/iamrames.png",
     "email": "iamrameshshah@gmail.com",
     "phone": "(+977) 9845575551",
@@ -13,13 +13,6 @@
       { "network": "linkedin", "username": "iamrameshshah", "url": "https://www.linkedin.com/in/iamrameshshah/" }
     ]
   },
-  // "interests": [
-  //   { "name": "Web Development" },
-  //   { "name": "Neuromorphic Computing" },
-  //   { "name": "Quantum Computing" },
-  //   { "name": "Robotics" },
-  //   { "name": "3D Graphics" }
-  // ],
   "skills": [
     {
       "name": "Languages and Frameworks",
