@@ -1,118 +1,99 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ramesh Shah",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/iamrames.png",
+    "email": "iamrameshshah@gmail.com",
+    "phone": "(+977) 9845575551",
+    "website": "https://iamrames.github.io",
+    "summary": "Results-driven Senior .NET Developer with over 6 years of experience in designing, developing, and implementing innovative software solutions. Proven expertise in full-stack development, database management, and team collaboration. Adept at analyzing complex problems and translating requirements into efficient code. Passionate about staying up to date with the latest technologies to drive project success.",
+    "location": { "address": "Purano Makawanpur Road", "postalCode": "", "city": "Hetauda,", "countryCode": "Nepal", "region": "Makawanpur" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "iamrames", "url": "http://github.com/iamrames" },
+      { "network": "linkedin", "username": "iamrameshshah", "url": "https://www.linkedin.com/in/iamrameshshah/" }
     ]
   },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
+  // "interests": [
+  //   { "name": "Web Development" },
+  //   { "name": "Neuromorphic Computing" },
+  //   { "name": "Quantum Computing" },
+  //   { "name": "Robotics" },
+  //   { "name": "3D Graphics" }
+  // ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C#", ".Net", "Blazor", "Angular", "Python", "EF Core", "Javascript", "jQuery", "SQL", "Dev Express" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Toolsets",
+      "keywords": [ "Git/GitHub", "VS Code", "Docker", "Kubernetes" ]
+    },
+    {
+      "name": "Cloud Platforms",
+      "keywords": [ "AWS", "Azure" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Tribhuwan University",
+      "area": "Computer Science",
+      "studyType": "B.Sc.",
+      "startDate": "2016",
+      "endDate": "2020",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "DRESSLER CONSULTING",
+      "position": "SENIOR SOFTWARE ENGINEER",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "10/2021",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Lead developer for ANYML project.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Lead a cross-functional team in the successful delivery of AnyML.",
+        "Utilized Agile methodologies to streamline development processes, resulting in a 20% increase in team productivity.",
+        "Collaborated with stakeholders to gather and refine project requirements, ensuring alignment with business objectives.",
+        "Implemented best practices in code reviews, reducing the number of bugs by 15%.",
+        "Oversaw software development and coded profitable apps using C#, .NET CORE, and Python.",
+        "Used different Microservices pattern such as CQRS, Configuration, Externalization, Sidecar, Service Discovery and many more.",
+        "Leveraged AWS services like EC2, RDS, VPC, EFS, Route 53, etc. for implementing distributed system."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "INFO DEVELOPERS PVT. LTD.",
+      "position": "SOFTWARE ENGINEER",
+      "website": "",
+      "startDate": "07/2019",
+      "endDate": "09/2021",
+      "summary": "Lead developer for CIT project.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Spearheaded the migration of a legacy system to a modern .NET Core framework, resulting in improved performance and scalability.",
+        "Developed RESTful APIs for seamless integration with third-party applications.",
+        "Conducted regular training sessions for junior developers, contributing to the professional growth of the team.",
+        "Contributed to multiple solutions such as CIT (Used by government institutions), COPOMIS (Fintech solution for Department of Cooperatives), Computerized Government Accounting System (CGAS), and many more."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "DANFE SOLUTION",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Software Developer",
+      "startDate": "04/2017",
+      "endDate": "05/2018",
+      "summary": "Lead developer for RestroOrder project",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Contributed to Restaurant Management System based C# (ASP .Net MVC), JQuery, Sql Server, and Dapper",
+        "Working on POS, Order Management, and Inventory Management.",
+        "Involved in the SDLC of requirement analysis, design, and development of the web-based application in the fastpaced agile methodology",
+        "Collaborated with a team of developers and senior engineers to contribute to the development of web applications using ASP.Net Core.",
+        "Developed RESTful APIs and integrated them into the ASP.Net Core application to facilitate data exchange with external systems.",
+        "Leveraged the MVC (Model-View-Controller) architectural pattern to create modular and maintainable code structures."
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
     }
   ]
 }
