@@ -13,13 +13,6 @@
       { "network": "linkedin", "username": "iamrameshshah", "url": "https://www.linkedin.com/in/iamrameshshah/" }
     ]
   },
-  // "interests": [
-  //   { "name": "Web Development" },
-  //   { "name": "Neuromorphic Computing" },
-  //   { "name": "Quantum Computing" },
-  //   { "name": "Robotics" },
-  //   { "name": "3D Graphics" }
-  // ],
   "skills": [
     {
       "name": "Languages and Frameworks",
